@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiYy74yNsV/H6ZVshgu8RMeKnd+CeC07rYM2XXudpGpR8ntvvmv2f/MEhQORNSHtKRCXIVNiF1CyKulPjdj0wA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lloyd.atkinson\\source\\repos\\BetterUnitTesting\\BetterUnitTesting\\BetterUnitTesting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lloyd.atkinson\\.nuget\\packages\\bogus\\29.0.1\\bogus.29.0.1.nupkg.sha512",
+    "C:\\Users\\lloyd.atkinson\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.3\\microsoft.extensions.logging.abstractions.3.1.3.nupkg.sha512",
+    "C:\\Users\\lloyd.atkinson\\.nuget\\packages\\optional\\4.0.0\\optional.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

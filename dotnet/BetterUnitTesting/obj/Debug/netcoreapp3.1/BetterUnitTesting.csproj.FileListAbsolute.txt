@@ -1,0 +1,17 @@
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.exe
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.deps.json
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.runtimeconfig.json
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.runtimeconfig.dev.json
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.dll
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\BetterUnitTesting.pdb
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.csprojAssemblyReference.cache
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.AssemblyInfoInputs.cache
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.AssemblyInfo.cs
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.dll
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.pdb
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.genruntimeconfig.cache
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.csproj.CopyComplete
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\bin\Debug\netcoreapp3.1\Optional.dll
+C:\Users\lloyd.atkinson\source\repos\BetterUnitTesting\BetterUnitTesting\obj\Debug\netcoreapp3.1\BetterUnitTesting.csproj.CoreCompileInputs.cache
